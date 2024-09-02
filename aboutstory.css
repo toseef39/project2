@@ -1,0 +1,37 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#gim{
+    position: relative;
+}
+#gin{
+    position: absolute;
+    top: 20px;
+    left: 48%;
+}
+#ber{
+    position: absolute;
+    top: 90px;
+    left: 35%;
+    margin-left:20px;
+}
+
+#num
+{
+    text-align: left;
+   font-size: 20px;
+    /* padding-left: 170px; */
+    /* margin-left: 270px ;
+    padding: 5px; */
+    padding-left: 90px; 
+    
+}
+
+#head
+{
+position: absolute;
+top: 40%;
+padding-left: 550px;
+font-size: 60px;
+}

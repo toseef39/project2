@@ -1,0 +1,43 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#gim{
+    position: relative;
+}
+#gin{
+    position: absolute;
+    top: 20px;
+    left: 48%;
+}
+#ber{
+    position: absolute;
+    top: 90px;
+    left: 35%;
+    margin-left:20px;
+
+}
+
+
+#num
+{
+    text-align: left;
+   font-size: 20px;
+    /* padding-left: 170px; */
+    /* margin-left: 270px ;
+    padding: 5px; */
+    padding-left: 90px;
+
+}
+ #lead
+ {
+    font-weight: 40px;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ #graph
+ {
+   margin-bottom: 50px;
+   padding-top: 50px;
+ }

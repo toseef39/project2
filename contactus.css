@@ -1,0 +1,32 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#gim{
+    position: relative;
+}
+#gin{
+    position: absolute;
+    top: 20px;
+    left: 48%;
+}
+#ber{
+    position: absolute;
+    top: 90px;
+    left: 35%;
+    margin-left:20px;
+
+}
+#hp
+{
+    font-size: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input:focus
+{
+    background-color: aquamarine;
+}
+input:active{
+    background-color: gainsboro;
+}

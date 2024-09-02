@@ -1,0 +1,63 @@
+*/
+{
+    padding: 0;
+    margin: 0;
+}
+
+#text-1
+{
+    position: relative;
+}
+
+#txt
+{
+    position: absolute;
+    top: 20%;
+    left:15%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 83px;
+    font-weight: 600;
+
+}
+
+#txt2{
+    position: absolute;
+    top: 35%;
+    left:15%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 83px;
+    font-weight: 600;
+}
+
+#heading{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 3.5rem !important;
+
+}
+#gim{
+    position: relative;
+}
+#gin{
+    position: absolute;
+    top: 20px;
+    left: 48%;
+}
+#ber{
+    position: absolute;
+    top: 90px;
+    left: 30%;
+    margin-left:20px;
+}
+num
+{
+    text-align: left;
+   font-size: 20px;
+    /* padding-left: 170px; */
+    /* margin-left: 270px ;
+    padding: 5px; */
+    padding-left: 90px; 
+    
+}
+
